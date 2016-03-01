@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'FamobiSDK_Example', :exclusive => true do
+  pod 'FamobiSDK', :path => '../'
+end
+
+target 'FamobiSDK_Tests', :exclusive => true do
+  pod 'FamobiSDK', :path => '../'
+
+  
+end
