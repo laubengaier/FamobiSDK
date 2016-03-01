@@ -1,0 +1,14 @@
+PODS:
+  - FamobiSDK (0.1.0)
+
+DEPENDENCIES:
+  - FamobiSDK (from `../`)
+
+EXTERNAL SOURCES:
+  FamobiSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FamobiSDK: 4a7f27c841c42490a66f62b8ec66cfaee70fb589
+
+COCOAPODS: 0.39.0

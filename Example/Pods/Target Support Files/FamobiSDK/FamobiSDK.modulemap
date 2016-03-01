@@ -1,0 +1,6 @@
+framework module FamobiSDK {
+  umbrella header "FamobiSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
