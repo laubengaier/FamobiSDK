@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FamobiSDK
 
 [![CI Status](http://img.shields.io/travis/Timotheus Laubengaier/FamobiSDK.svg?style=flat)](https://travis-ci.org/Timotheus Laubengaier/FamobiSDK)
@@ -27,3 +28,6 @@ Timotheus Laubengaier, admin@la1n.de
 ## License
 
 FamobiSDK is available under the MIT license. See the LICENSE file for more info.
+=======
+# FamobiSDK
+>>>>>>> af93935afa957a36f9c65b8b552c6fa4e7b66f6a
